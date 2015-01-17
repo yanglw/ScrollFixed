@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="p">#ff66cc</color>
+    <color name="b">#0000ff</color>
+    <color name="r">#ff0000</color>
+    <color name="g">#00ff00</color>
+
+    <string-array name="texts">
+        <item>text</item>
+        <item>text\ntext</item>
+        <item>text\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext\ntext\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext\ntext\ntext\ntext\ntext</item>
+        <item>text\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext\ntext</item>
+    </string-array>
+</resources>
